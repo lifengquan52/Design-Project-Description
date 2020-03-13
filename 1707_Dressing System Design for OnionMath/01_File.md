@@ -1,4 +1,4 @@
-Dressing System Design for OnionMath / 洋葱数学换装系统界面及插画设计
+# Dressing System Design for OnionMath | 洋葱数学换装系统界面及插画设计
 
 [换装系统] 是洋葱数学 3.7 版本更新的核心功能，这一功能能够很快速的给予用户在洋葱数学中完整的游戏化体验，用户的换装效果也可以作为个人的专属头像。
 

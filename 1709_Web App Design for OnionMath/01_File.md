@@ -1,4 +1,4 @@
-Web App Design for OnionMath / 洋葱数学Web版 App 设计
+# Web App Design for OnionMath | 洋葱数学Web版 App 设计
 
 These are the interface design of the Web version of the app I designed for onion mathematics. Here I will show some of the core content involved in the design. They support the core experience of the onion math Web version app. Through modular resource disassembly and standardized design system, the entire Web App looks and uses very user-friendly and modern, let all users to experience a useful and funny interface design.
 

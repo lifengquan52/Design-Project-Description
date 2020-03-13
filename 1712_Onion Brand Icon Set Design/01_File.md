@@ -1,4 +1,4 @@
-Icons Pack Design for OnionMath / 洋葱数学App功能性图标包设计
+# Icons Pack Design for OnionMath | 洋葱数学App功能性图标包设计
 
 These icons are designed for the OnionMath iOS and Android platform. They match the characteristics of different platforms, and they also meet the fun of having a playful theme. Each version has a consistent design guide, Icons seen in the app are very uniform and consistent.
 

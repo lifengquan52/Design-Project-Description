@@ -1,7 +1,7 @@
-User Experience Design for ANiu Investment/阿牛定投用户体验设计
+# User Experience Design for ANiu Investment | 阿牛定投用户体验设计
 
 
-A Niu is an investment app. I designed a complete user interaction and related graphic illustrations for A Niu Ding. Because the App is affiliated with WeChat, I also consider the dual platform nature of iOS and Android when designing, which reduces the user’s understanding between different apps.
+A Niu is an investment app. I designed a complete user interaction and related graphic illustrations for A Niu Ding. Because the App is affiliated with WeChat, I also consider the dual platform nature of iOS and Android when designing, which reduces the user's understanding between different apps.
 
 Because the industry attribute of A Niu Dingtou products is quite obvious, the amount of information will be very much. Therefore, when designing A Niu Dingtou, I will consider more about the display of various levels of information. Through orderly arrangement, I can make A Niu The experience of the fixed investment is very user-friendly.
 
